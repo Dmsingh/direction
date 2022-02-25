@@ -1,0 +1,15 @@
+#container {
+    width: auto;
+    
+  }
+  .box {
+    background-color: blue;
+    text-align: center;
+    color: blue;
+    width: 200px;
+    border:2px solid black;
+    
+  }
+  .p {
+    color: blue;
+  }
